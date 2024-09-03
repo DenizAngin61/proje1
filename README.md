@@ -5,8 +5,8 @@ veri yapıları ve algoritmalar proje 1
 -	[2,27,16,22,18,6]
 -	[2,6,16,22,18,27]
 -	[2,6,16,18,22,27]
-O(n2) 
-52 = 32
+O(n^2) 
+5^2 = 32
 O(32)
 18 sayısı sıralanmış dizinin ortasında olduğu için Average case kapsamına girer.
 
